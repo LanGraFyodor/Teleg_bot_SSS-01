@@ -4,3 +4,4 @@
     user="student_user",
     password="your_password",
     host="localhost"
+Ещё ссылки на вк группы поменяй ))
